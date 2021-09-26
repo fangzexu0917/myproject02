@@ -5,6 +5,7 @@ import java.util.*;
 
 //再去测试分支
 //测试分支
+//测试删除暂存区缓存
 
 /**
  * CMUtility工具类：
