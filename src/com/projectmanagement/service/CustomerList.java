@@ -64,7 +64,7 @@ public class CustomerList {
         customers[--total] = null;
         return true;
     }
-
+//////
     /**
      * 用途：返回数组中记录的所有客户对象
      *
