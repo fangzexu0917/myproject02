@@ -63,7 +63,7 @@ public class Customer {
     }
 
     //显示当前对象的信息
-    public String info(){
+    public String info() {
         return name + "\t" + gender + "\t" + age + "\t" + phone + "\t" + email;
     }
 }
